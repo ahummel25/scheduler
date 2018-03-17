@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Header correctly 1`] = `
+<div>
+  <header
+    className="header"
+  >
+    <img
+      alt="logo"
+      className="logo"
+      src="logo.svg"
+    />
+    <h1
+      className="header-title"
+    >
+      Scheduler
+    </h1>
+  </header>
+</div>
+`;
